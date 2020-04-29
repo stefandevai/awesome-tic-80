@@ -1,6 +1,7 @@
 <h1 align="center">Awesome TIC-80!</h1>
 <p align="center">
-<a href="https://awesome.re"><img src="https://awesome.re/badge-flat2.svg" alt="Amethyst Waters gameplay."></img></href>
+<a href="https://awesome.re"><img src="https://awesome.re/badge-flat2.svg" alt="Amethyst Waters gameplay."></img></a>
+<img src="./tic80.gif" alt="TIC-80 features."></img>
 </p>
 <p align="center"><a href="https://tic.computer/play">🎮</a> ꞏ <a href="https://github.com/nesbox/TIC-80/wiki">📖</a> ꞏ <a href="https://tic.computer/create">⬇️</a></p>
 <p align="center">A curated list of awesome TIC-80 tutorials, resources and useful links.</p>

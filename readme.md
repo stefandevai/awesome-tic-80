@@ -21,7 +21,9 @@
 
 
 ## Useful links
-
+- [TIC-80 Wiki](https://github.com/nesbox/TIC-80/wiki)
+- [API](https://github.com/nesbox/TIC-80/wiki#special-functions)
+- [Code examples and snippets](https://github.com/nesbox/TIC-80/wiki/code-examples-and-snippets)
 
 ## Contribute
 

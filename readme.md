@@ -11,18 +11,20 @@
 
 <p align="center"><a href="https://tic.computer/play">🎮</a> ꞏ <a href="https://github.com/nesbox/TIC-80/wiki">📖</a> ꞏ <a href="https://tic.computer/create">⬇️</a></p>
 <p align="center">A curated list of awesome TIC-80 tutorials, resources, tools and useful links.</p>
+<p align="center">TIC-80 is a fantasy computer for making, playing and sharing tiny games. TIC-80 is open source and distributed under the MIT license.</p>
 
 
 ## Contents
-
 - [Tutorials](#tutorials)
-  - [Videos](#videos)
-  - [Articles](#articles)
+  - [Video](#videos)
+  - [Text](#articles)
 - [Libraries](#libraries)
 - [Tools](#tools)
 - [Resources](#resources)
   - [Articles](#articles)
   - [Useful links](#useful-links)
+  - [Miscellaneous](#miscellaneous)
+  - [Community](#community)
 
 
 ## Tutorials

@@ -1,25 +1,21 @@
 # Contribution Guidelines
 
-Please note that this project is released with a
-[Contributor Code of Conduct](code-of-conduct.md). By participating in this
-project you agree to abide by its terms.
+Please ensure your pull request adheres to the following:
 
----
+## New Categories
+* Ensure the new category has at least one entry within.
+* Ensure categories are listed in alphanumeric order.
+* Ensure category is properly linked to in the table of contents (see Formatting).
 
-Ensure your pull request adheres to the following guidelines:
+## New Entries
+* Ensure that new entry is not a duplicate.
+* Make an individual pull request for each new entry.
+* Use the following format: \[NAME\]\(LINK\) - DESCRIPTION.
+* Keep descriptions simple.
+  * Do not use the entry's name in the description.
+  * Do not use "TIC-80" within the description unless absolutely necessary.
+* Ensure the new entry does not have trailing whitespace.
+* Make your pull request titles and descriptions as detailed as possible. Explain why an asset or resources deserves to be added to the list.
+* Ensure that the content you submit is of high quality, documented well, and is recently maintained.
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
-
-Thank you for your suggestions!
-
-
-## Updating your PR
-
-A lot of times, making a PR adhere to the standards above can be difficult.
-If the maintainers notice anything that we'd like changed, we'll ask you to
-edit your PR before we merge it. There's no need to open a new PR, just edit
-the existing one. If you're not sure how to do that,
-[here is a guide](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md)
-on the different ways you can update your PR so that we can merge it.
+Thank you :)

@@ -1,9 +1,11 @@
 <h1 align="center">
   Awesome TIC-80!<br>
 </h1>
-<a href="https://awesome.re">
-  <img src="https://awesome.re/badge-flat2.svg" alt="Amethyst Waters gameplay." />
-</a>
+<p align="center">
+  <a href="https://awesome.re">
+    <img src="https://awesome.re/badge-flat2.svg" alt="Amethyst Waters gameplay." />
+  </a>
+</p>
 <p align="center">
   <img src="./tic80.gif" alt="TIC-80 features." />
 </p>

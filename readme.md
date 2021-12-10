@@ -10,7 +10,7 @@
   <img src="./tic80.gif" alt="TIC-80 features." />
 </p>
 
-<p align="center"><a href="https://tic.computer/play">🎮</a> ꞏ <a href="https://github.com/nesbox/TIC-80/wiki">📖</a> ꞏ <a href="https://tic.computer/create">⬇️</a></p>
+<p align="center"><a href="https://tic80.com/play">🎮</a> ꞏ <a href="https://github.com/nesbox/TIC-80/wiki">📖</a> ꞏ <a href="https://tic80.com/create">⬇️</a></p>
 <p align="center">A curated list of awesome TIC-80 tutorials, resources, tools and useful links.</p>
 <p align="center">TIC-80 is a <strong>FREE</strong> and <strong>OPEN SOURCE</strong> fantasy computer for making, playing and sharing tiny games.</p>
 
@@ -72,7 +72,7 @@
 - [Make Gradient](https://pastebin.com/kiVBG8HD): Useful for effects such as changing color on scanline or palette animation, all in just over 1600 bytes. 
 - [LZW Image Compression](https://github.com/deck-dev/LZW-image-compression-for-TIC): Compress image and store it as string. Decompress in Lua.
 - [FC-RLE: RLE Image Compression](https://github.com/josefnpat/fc-rle): Compress an image and store it as a string in run-length encoding. Decompress it in game with a few small helper functions.
-- [LZW compression js](https://tic.computer/play?cart=135): Javascript implementation of LZW compress and decompress algorithm.
+- [LZW compression js](https://tic80.com/play?cart=135): Javascript implementation of LZW compress and decompress algorithm.
 
 
 ## Tools
@@ -84,10 +84,10 @@
 - [tic80tileswap](https://github.com/borbware/tic80tileswap): Swap around tiles in a TIC-80 .lua file (requires TIC-80 pro).
 - [tic80downloader](https://github.com/msx80/tic80downloader): Cart downloader and helper.
 - [tic80-draw-image](https://github.com/cxong/tic80-draw-image): Demo of how to draw an arbitrary image.
-- [Textri](https://tic.computer/play?cart=554): Simple tool to help visualize / explain UV's for textri.
-- [Compression Sandbox](https://tic.computer/play?cart=313): Tiny viewer for packed resources, that supports chained grouping and packing with RLE/LZ77/Huffman code.
-- [Font Editor](https://tic.computer/play?cart=263): Simple editor for 5x5 fonts with samples in Cyrillic, Latin, Greek, Hebrew and even some Japanese writings.
-- [SFX Wave Maker](https://tic.computer/play?cart=682): Create complex SFX waves.
+- [Textri](https://tic80.com/play?cart=554): Simple tool to help visualize / explain UV's for textri.
+- [Compression Sandbox](https://tic80.com/play?cart=313): Tiny viewer for packed resources, that supports chained grouping and packing with RLE/LZ77/Huffman code.
+- [Font Editor](https://tic80.com/play?cart=263): Simple editor for 5x5 fonts with samples in Cyrillic, Latin, Greek, Hebrew and even some Japanese writings.
+- [SFX Wave Maker](https://tic80.com/play?cart=682): Create complex SFX waves.
 
 
 ## Resources
@@ -100,8 +100,8 @@
 - [API Reference](https://github.com/nesbox/TIC-80/wiki#special-functions)
 - [Build instructions](https://github.com/nesbox/TIC-80/wiki/build-instructions)
 - [Code examples and snippets](https://github.com/nesbox/TIC-80/wiki/code-examples-and-snippets)
-- [Downloads](https://tic.computer/create)
-- [Play](https://tic.computer/play)
+- [Downloads](https://tic80.com/create)
+- [Play](https://tic80.com/play)
 - [TIC-80 Games on Itch.io](https://itch.io/games/tag-tic-80)
 - [Wiki](https://github.com/nesbox/TIC-80/wiki)
 

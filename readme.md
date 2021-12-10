@@ -68,6 +68,7 @@
 - [TICuare](https://github.com/Crutiatix/TICuare): A simple and customisable UI library based on Uare.
 - [pico2tic](https://github.com/musurca/pico2tic): PICO-8 API Wrapper.
 - [PSLIB](http://tic.computer/play?cart=85): An advenced particle system.
+- [Pygame-80](https://github.com/Kyuchumimo/Pygame-80): TIC-80 functions ported to pygame in Python.
 - [bump demo](https://itch.io/t/72354/collision-detection-library-bump-and-simple-demo-for-tic-80): Lua collision-detection library for axis-aligned rectangles.
 - [Make Gradient](https://pastebin.com/kiVBG8HD): Useful for effects such as changing color on scanline or palette animation, all in just over 1600 bytes. 
 - [LZW Image Compression](https://github.com/deck-dev/LZW-image-compression-for-TIC): Compress image and store it as string. Decompress in Lua.
